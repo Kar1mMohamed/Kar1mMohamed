@@ -2,7 +2,7 @@
 🚀 **Mobile Apps Developer** | 📱 **Flutter & Dart Enthusiast** | 💻 **Backend Developer**
 
 I’m a passionate mobile developer with 9 years of software development experience,
-currently leading technical support at compaines in Saudi Arabia.
+currently leading technical support at companies in Saudi Arabia.
 I specialize in creating high-quality Mobile Applications, Backends, Web, Windows, MacOS using modern technologies like Flutter, Dart, PHP, and more.
 
 ---
@@ -18,10 +18,10 @@ I specialize in creating high-quality Mobile Applications, Backends, Web, Window
 
 ### 🚀 Projects
 Here are some of the mobile apps and tools I've worked on:
-- [ESCO](https://play.google.com/store/apps/details?id=com.kar1mmohamed.escoapp) - A feature-rich mobile application for Quran study and recitation.
-- [First Online Academy](https://github.com/KarimMohamed/PasskeysIntegration) - E-Learning platform
-- [Future Server](https://github.com/Kar1mMohamed/future_server) - Powerfull tool to make backend with dart
-- [Prime Video](#) - Powerful platform to store videos with reasonable prices
+- [ESCO](https://play.google.com/store/apps/details?id=com.kar1mmohamed.escoapp) - A feature-rich mobile application for real estate marketing.
+- [First Online Academy](https://github.com/KarimMohamed/PasskeysIntegration) - E-Learning platform.
+- [Future Server](https://github.com/Kar1mMohamed/future_server) - Powerful tool to make backend with Dart.
+- [Prime Video](#) - Powerful platform to store videos at reasonable prices.
 ---
 
 ### 📈 GitHub Stats
