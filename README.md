@@ -21,13 +21,13 @@ Here are some of the mobile apps and tools I've worked on:
 - [ESCO](https://play.google.com/store/apps/details?id=com.kar1mmohamed.escoapp) - A feature-rich mobile application for Quran study and recitation.
 - [First Online Academy](https://github.com/KarimMohamed/PasskeysIntegration) - E-Learning platform
 - [Future Server](https://github.com/Kar1mMohamed/future_server) - Powerfull tool to make backend with dart
-- [Prime Video](#) - Powerfull platform to store videos with reasonable prices
+- [Prime Video](#) - Powerful platform to store videos with reasonable prices
 ---
 
 ### 📈 GitHub Stats
-![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimMohamed&show_icons=true&theme=dracula)
+![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kar1mMohamed&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimMohamed&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kar1mMohamed&layout=compact&theme=dracula)
 
 ---
 
