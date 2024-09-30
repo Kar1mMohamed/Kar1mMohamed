@@ -10,7 +10,7 @@ I specialize in creating high-quality Mobile Applications, Backends, Web, Window
 ### 🛠 Tech Stack
 - **Mobile Development:** Flutter, Dart
 - **Backend:** PHP, Node.js, Dart
-- **Web Development:** HTML, CSS, JavaScript, Flutter
+- **Web Development:** HTML, CSS, JavaScript, ReactJS, Flutter
 - **Version Control:** Git, GitHub
 - **Other:** Visual Basic, C#
 
