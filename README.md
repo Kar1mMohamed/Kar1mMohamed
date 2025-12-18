@@ -33,7 +33,7 @@ Here are some of the mobile apps and tools I've worked on:
 
 ### 🌐 Connect with Me:
 - **LinkedIn:** [Karim Mohamed](https://www.linkedin.com/in/kar1mmohamed/)
-- **Website:** [portfolio.kar1mmohamed.com](https://portfolio.kar1mmohamed.com)
+- **Website:** [kar1mmohamed.com](https://kar1mmohamed.com)
 
 ---
 
