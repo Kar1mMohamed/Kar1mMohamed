@@ -2,70 +2,61 @@
 
   # Hi there, I'm Karim Mohamed 👋
 
-  ### 🚀 Mobile Apps Developer | 📱 Flutter & Dart Enthusiast | 💻 Backend Developer
+  ### 🚀 Mobile Apps Developer | 🎯 Full-Stack Dart Expert | 💻 Backend Engineer
 
   <p align="center">
-    I’m a passionate mobile developer with <b>4+ years</b> of software development experience.<br>
-    Currently leading technical support at companies in Saudi Arabia.
+    I am a software engineer with <b>4+ years</b> of experience specializing in cross-platform development.<br>
+    I build scalable mobile apps and powerful backends using a unified <b>Dart ecosystem</b>.
   </p>
 
   <p align="center">
-    I specialize in creating high-quality Mobile Applications, Backends, Web, Windows, and MacOS solutions<br>
-    using modern technologies like Flutter, Dart, PHP, and more.
+    🔭 <b>Currently working on:</b> Enterprise-grade Real Estate solutions.<br>
+    🌱 <b>Currently exploring:</b> Artificial Intelligence & Self-Hosting Architectures.<br>
+    🌍 <b>Based in:</b> Saudi Arabia & Egypt
   </p>
 
-  ---
+  <br>
 
-  ### 🛠 Tech Stack
-
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
----
-
-### 🚀 Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[ESCO](https://play.google.com/store/apps/details?id=com.kar1mmohamed.escoapp)** | A feature-rich mobile application for real estate marketing. | 📱 Mobile |
-| **[First Online Academy](https://github.com/KarimMohamed/PasskeysIntegration)** | A comprehensive E-Learning platform. | 🎓 Education |
-| **[Future Server](https://github.com/Kar1mMohamed/future_server)** | Powerful tool to build backends with Dart. | ⚙️ Backend |
-| **[Prime Video](#)** | Powerful platform to store videos at reasonable prices. | 🎥 Media |
-
----
-
-### 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kar1mMohamed&theme=dracula&hide_border=true" alt="Karim's Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kar1mMohamed&theme=dracula&hide_border=true" alt="Karim's Activity Graph" />
-</div>
-
----
-
-### 🌐 Connect with Me
-
-<div align="center">
   <a href="https://www.linkedin.com/in/kar1mmohamed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://kar1mmohamed.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+
 </div>
+
+---
+
+### 🛠 The Tech Stack
+
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **📱 Mobile** | <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square" /> |
+| **⚙️ Backend** | <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Dart_Backend-0175C2?logo=dart&logoColor=white&style=flat-square" /> |
+| **🌐 Web** | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" /> |
+| **🔧 Tools** | <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" /> |
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Type | Stack |
+| :--- | :--- | :--- |
+| **[ESCO 🏠](https://play.google.com/store/apps/details?id=com.kar1mmohamed.escoapp)**<br>Comprehensive real estate marketing platform with advanced search and user management. | **Mobile App** | `Flutter` `Dart` |
+| **[Future Server ⚡](https://github.com/Kar1mMohamed/future_server)**<br>A custom framework to build high-performance backends using Dart. | **Open Source** | `Dart` `Server-Side` |
+| **[First Online Academy 🎓](https://github.com/KarimMohamed/PasskeysIntegration)**<br>E-Learning platform featuring modern Passkey integration for secure authentication. | **Education** | `Web` `Security` |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kar1mMohamed&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=FEFE5B&fire=FEFE5B&currStreakLabel=FEFE5B" alt="Streak Stats" />
+</div>
+
+<br>
