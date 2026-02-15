@@ -2,7 +2,7 @@
 
   # Hi there, I'm Karim Mohamed 👋
 
-  ### 🚀 Mobile Apps Developer | 🎯 Full-Stack Dart Expert | 💻 Backend Engineer
+  ### 🚀 Mobile Apps Developer | 🎯 Full-Stack | 💻 Backend Engineer
 
   <p align="center">
     I am a software engineer with <b>4+ years</b> of experience specializing in cross-platform development.<br>
